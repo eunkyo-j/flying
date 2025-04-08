@@ -1,4 +1,4 @@
-# Seat Reservation Platform
+# Flying(스터디카페좌석예약플랫폼)
 
 스터디카페 좌석 예약 플랫폼 어플리케이션
 

@@ -8,6 +8,15 @@
 
 이 플랫폼은 사용자가 실시간으로 좌석 현황을 확인하고 원하는 좌석을 예약 및 결제할 수 있는 서비스를 제공합니다. 점주 또한 자신의 스터디카페를 등록하여 홍보 효과를 얻고, 이용권 결제를 통해 수익을 받을 수 있도록 설계되었습니다.
 
+![Image](https://github.com/user-attachments/assets/799736a7-63e1-4f6c-a98f-56be264bd173)
+![Image](https://github.com/user-attachments/assets/6df4dc3b-5418-43dd-97ba-9228619c3b34)
+![Image](https://github.com/user-attachments/assets/a276718f-a119-419f-96f1-2895e93dfaf1)
+![Image](https://github.com/user-attachments/assets/8cce3aec-3c11-433d-8e64-b4e60e22918c)
+![Image](https://github.com/user-attachments/assets/d4b66b36-9d30-4705-8ec4-480c86f1a3e7)
+![Image](https://github.com/user-attachments/assets/94ea6d82-66e0-4bf6-90fe-00643be49dfa)
+![Image](https://github.com/user-attachments/assets/366f518b-7f88-42fe-ab09-f8638f537b9e)
+![Image](https://github.com/user-attachments/assets/09564fd3-849b-4727-bf3a-681dc8385ccf)
+
 ---
 
 ## 🛠️ 주요 기능

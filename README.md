@@ -18,6 +18,7 @@
 <Image src="https://github.com/user-attachments/assets/7bbaabe3-cace-43a2-aa5a-eb84d69bdb55" width="200" height="350"/>
 <Image src="https://github.com/user-attachments/assets/284e9364-7066-499a-aa2a-a1248eeb28d7" width="200" height="350"/>
 <Image src="https://github.com/user-attachments/assets/c69ca2e9-5930-420d-a0e0-2b7798cdcf78" width="200" height="350"/>
+<Image src="https://github.com/user-attachments/assets/04faad2b-99c9-42c5-9453-5be34d507b1d" width="200" height="350"/>
 
 
 개인 회원 화면<br>

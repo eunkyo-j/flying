@@ -8,24 +8,24 @@
 
 이 플랫폼은 사용자가 실시간으로 좌석 현황을 확인하고 원하는 좌석을 예약 및 결제할 수 있는 서비스를 제공합니다. 점주 또한 자신의 스터디카페를 등록하여 홍보 효과를 얻고, 이용권 결제를 통해 수익을 받을 수 있도록 설계되었습니다.
 
-회원가입/로그인 화면
-![Image](https://github.com/user-attachments/assets/7fff07f7-ace5-4848-9b17-3c0d9434d26f)
-![Image](https://github.com/user-attachments/assets/eed71ca0-339e-4dcd-a400-c7101de67e7e)
-![Image](https://github.com/user-attachments/assets/7796dd07-9862-4f34-a292-3cdb942756bf)
+회원가입/로그인 화면<br>
+<Image src="https://github.com/user-attachments/assets/7fff07f7-ace5-4848-9b17-3c0d9434d26f" width="200" height="350"/>
+<Image src="https://github.com/user-attachments/assets/eed71ca0-339e-4dcd-a400-c7101de67e7e" width="200" height="350"/>
+<Image src="https://github.com/user-attachments/assets/7796dd07-9862-4f34-a292-3cdb942756bf" width="200" height="350"/>
 
-점주 화면
-![Image](https://github.com/user-attachments/assets/816f741d-8a5b-4e12-895a-4b3b1b4a1af1)
-![Image](https://github.com/user-attachments/assets/174c0e8a-fa66-4a34-8504-ea078cfb5f09)
-![Image](https://github.com/user-attachments/assets/f856fefd-a9a8-4bbd-b0e2-fe218415c426)
-![Image](https://github.com/user-attachments/assets/7017489c-25ee-4811-ab37-fa7417993aac)
-![Image](https://github.com/user-attachments/assets/000b00cd-55ad-4caa-802a-d25820d294f8)
+점주 화면<br>
+<Image src="https://github.com/user-attachments/assets/816f741d-8a5b-4e12-895a-4b3b1b4a1af1" width="200" height="350"/>
+<Image src="https://github.com/user-attachments/assets/174c0e8a-fa66-4a34-8504-ea078cfb5f09" width="200" height="350"/>
+<Image src="https://github.com/user-attachments/assets/f856fefd-a9a8-4bbd-b0e2-fe218415c426" width="200" height="350"/>
+<Image src="https://github.com/user-attachments/assets/7017489c-25ee-4811-ab37-fa7417993aac" width="200" height="350"/>
+<Image src="https://github.com/user-attachments/assets/000b00cd-55ad-4caa-802a-d25820d294f8" width="200" height="350"/>
 
-개인 회원 화면
-![Image](https://github.com/user-attachments/assets/cc959242-af64-414c-b6f1-688dc3bcbd37)
-![Image](https://github.com/user-attachments/assets/f1d257a8-e5e3-4c24-9cfe-637fb27d00e0)
-![Image](https://github.com/user-attachments/assets/a48ce6a3-4b9e-4c87-b5fa-33929f836b89)
-![Image](https://github.com/user-attachments/assets/abfcb1fb-bfb8-4825-b977-ae357df6e4af)
-![Image](https://github.com/user-attachments/assets/b7293b98-411d-4763-b906-80d26d448bfe)
+개인 회원 화면<br>
+<Image src="https://github.com/user-attachments/assets/cc959242-af64-414c-b6f1-688dc3bcbd37" width="200" height="350"/>
+<Image src="https://github.com/user-attachments/assets/f1d257a8-e5e3-4c24-9cfe-637fb27d00e0" width="200" height="350"/>
+<Image src="https://github.com/user-attachments/assets/a48ce6a3-4b9e-4c87-b5fa-33929f836b89" width="200" height="350"/>
+<Image src="https://github.com/user-attachments/assets/abfcb1fb-bfb8-4825-b977-ae357df6e4af" width="200" height="350"/>
+<Image src="https://github.com/user-attachments/assets/b7293b98-411d-4763-b906-80d26d448bfe" width="200" height="350"/>
 
 ---
 

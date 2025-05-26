@@ -8,14 +8,24 @@
 
 이 플랫폼은 사용자가 실시간으로 좌석 현황을 확인하고 원하는 좌석을 예약 및 결제할 수 있는 서비스를 제공합니다. 점주 또한 자신의 스터디카페를 등록하여 홍보 효과를 얻고, 이용권 결제를 통해 수익을 받을 수 있도록 설계되었습니다.
 
-![Image](https://github.com/user-attachments/assets/799736a7-63e1-4f6c-a98f-56be264bd173)
-![Image](https://github.com/user-attachments/assets/6df4dc3b-5418-43dd-97ba-9228619c3b34)
-![Image](https://github.com/user-attachments/assets/a276718f-a119-419f-96f1-2895e93dfaf1)
-![Image](https://github.com/user-attachments/assets/8cce3aec-3c11-433d-8e64-b4e60e22918c)
-![Image](https://github.com/user-attachments/assets/d4b66b36-9d30-4705-8ec4-480c86f1a3e7)
-![Image](https://github.com/user-attachments/assets/94ea6d82-66e0-4bf6-90fe-00643be49dfa)
-![Image](https://github.com/user-attachments/assets/366f518b-7f88-42fe-ab09-f8638f537b9e)
-![Image](https://github.com/user-attachments/assets/09564fd3-849b-4727-bf3a-681dc8385ccf)
+회원가입/로그인 화면
+![Image](https://github.com/user-attachments/assets/7fff07f7-ace5-4848-9b17-3c0d9434d26f)
+![Image](https://github.com/user-attachments/assets/eed71ca0-339e-4dcd-a400-c7101de67e7e)
+![Image](https://github.com/user-attachments/assets/7796dd07-9862-4f34-a292-3cdb942756bf)
+
+점주 화면
+![Image](https://github.com/user-attachments/assets/816f741d-8a5b-4e12-895a-4b3b1b4a1af1)
+![Image](https://github.com/user-attachments/assets/174c0e8a-fa66-4a34-8504-ea078cfb5f09)
+![Image](https://github.com/user-attachments/assets/f856fefd-a9a8-4bbd-b0e2-fe218415c426)
+![Image](https://github.com/user-attachments/assets/7017489c-25ee-4811-ab37-fa7417993aac)
+![Image](https://github.com/user-attachments/assets/000b00cd-55ad-4caa-802a-d25820d294f8)
+
+개인 회원 화면
+![Image](https://github.com/user-attachments/assets/cc959242-af64-414c-b6f1-688dc3bcbd37)
+![Image](https://github.com/user-attachments/assets/f1d257a8-e5e3-4c24-9cfe-637fb27d00e0)
+![Image](https://github.com/user-attachments/assets/a48ce6a3-4b9e-4c87-b5fa-33929f836b89)
+![Image](https://github.com/user-attachments/assets/abfcb1fb-bfb8-4825-b977-ae357df6e4af)
+![Image](https://github.com/user-attachments/assets/b7293b98-411d-4763-b906-80d26d448bfe)
 
 ---
 

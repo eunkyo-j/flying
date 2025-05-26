@@ -16,9 +16,9 @@
 점주 화면<br>
 <Image src="https://github.com/user-attachments/assets/816f741d-8a5b-4e12-895a-4b3b1b4a1af1" width="200" height="350"/>
 <Image src="https://github.com/user-attachments/assets/174c0e8a-fa66-4a34-8504-ea078cfb5f09" width="200" height="350"/>
-<Image src="https://github.com/user-attachments/assets/f856fefd-a9a8-4bbd-b0e2-fe218415c426" width="200" height="350"/>
-<Image src="https://github.com/user-attachments/assets/7017489c-25ee-4811-ab37-fa7417993aac" width="200" height="350"/>
-<Image src="https://github.com/user-attachments/assets/000b00cd-55ad-4caa-802a-d25820d294f8" width="200" height="350"/>
+<Image src="https://github.com/user-attachments/assets/eff11dfe-11d0-448d-a4f5-eb57777aaced" width="200" height="350"/>
+<Image src="https://github.com/user-attachments/assets/284e9364-7066-499a-aa2a-a1248eeb28d7" width="200" height="350"/>
+<Image src="https://github.com/user-attachments/assets/c69ca2e9-5930-420d-a0e0-2b7798cdcf78" width="200" height="350"/>
 
 개인 회원 화면<br>
 <Image src="https://github.com/user-attachments/assets/cc959242-af64-414c-b6f1-688dc3bcbd37" width="200" height="350"/>
